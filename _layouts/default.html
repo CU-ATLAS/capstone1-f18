@@ -1,0 +1,53 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <link href="https://fonts.googleapis.com/css?family=Lato:900|Work+Sans" rel="stylesheet">
+  <link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
+
+</head>
+<body style="background-color: rgb(255, 255, 255)">
+ <script src="{{site.baseurl}}/js/theme.min.js"></script>
+  <header>
+      <!-- <a href="{{site.baseurl}}/"><div class="home"></div></a> -->
+  </header>
+
+  {{ content }}
+
+<footer>
+
+    <hr>
+    <br>
+    <div class="links">
+      <!-- <p>ATLS 4010<br> Fall 2018 </p> -->
+
+        <p>
+        <strong>ATLS 4010, Capstone 1, Fall 2018</strong><br>
+        </p>
+
+        <p>
+          <a href="">Monday Section</a><br>
+          <span class="underlined"><strong>Meets:</strong></span>&nbsp; Monday 3-6:50pm in ENVD 234<br>
+          <span class="underlined"><strong>Instructor:</strong></span>&nbsp; Matt Bethancourt 👉 matt.bethancourt@colorado.edu
+        </p>
+        <br>
+        <p>
+          <a href="">Thursday Section</a><br>
+          <span class="underlined"><strong>Meets:</strong></span>&nbsp; Thursday 3:30-7:20pm in ENVD 234<br>
+          <span class="underlined"><strong>Instructor:</strong></span>&nbsp; Arielle Hein 👉 arielle.hein@colorado.edu
+        </p>
+
+    </div>
+    <br>
+    <br>
+   <!--  <div class="theme" onclick="theme()" style="    background-image: url({{site.baseurl}}/images/theme.svg)"></div> -->
+</footer>
+{% include analytics.html %}
+
+</body>
+</html>
