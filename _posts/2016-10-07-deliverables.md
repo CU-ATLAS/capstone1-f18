@@ -1,8 +1,58 @@
 ---
 layout: post
 title: Deliverables
-permalink: '/doc'
+permalink: '/deliverables'
 ---
+The purpose of Capstone 1 is to research topics of interest to you, prototype techniques and ideas, and ultimately clarify a project that you will execute in Capstone 2.
+
+<br>
+
+## Portfolio
+At the start of Capstone 1, you will prepare a portfolio of your technical and creative work. The purpose of the portfolio is to be a resource for you in finding jobs, collaborations, and future opportunities after your time at CU.
+
+👉 [Portfolio requirements]()
+
+<br>
+
+## Case Studies
+A significant portion of your Capstone 1 semester will be spent conducting research and exploring topics of interest to you.
+<br>
+
+👉 [Case Study requirements]()
+
+<br>
+
+## Prototypes
+You will conduct 3 week-long prototyping sprints to test out ideas and technologies that you explored in your research. These prototypes will help you to determine *how* you will execute your culminating Capstone project.
+
+👉 [Prototype requirements]()
+
+<br>
+
+## Capstone 2 Proposal
+At the end of the Capstone 1 semester, you will submit a formal proposal outlining your plan and intentions for completing a semester-long project in Capstone 2.  
+
+👉 [Proposal requirements]()
+
+<br>
+<br>
+
+# Grading Criteria
+Work will be evaluated according to the following criteria:
++ Conceptual proficiency
++ Design proficiency / Creativity
++ Technical mastery of the skills
+
+
+|---|---|---|
+|  *Week 4*     | &nbsp;&nbsp;|Portfolio    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 15 pts |
+|  *Week 8*     | &nbsp;&nbsp;|Case Studies             | | 30 pts |
+|  *Week 8*     | &nbsp;&nbsp;|Case Study Presentation  | | &nbsp; 5 pts |
+|  *Week 10-12* | &nbsp;&nbsp;|Prototypes (3)           | | 30 pts |
+|  *Week 12*    | &nbsp;&nbsp;|Prototype Presentation   | | &nbsp; 5 pts |
+|  *Week 15*    | &nbsp;&nbsp;|Capstone 2 Proposal      | | 15 pts |
+
+
 <!--
 You are expected to keep an online journal of your progress throughout this class. Ongoing documentation of your research, your design and production process, testing, and methodology is a major part of your final project and functions in lieu of a lengthly paper.
 

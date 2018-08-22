@@ -4,75 +4,98 @@ title:  "Course Overview"
 permalink: '/overview'
 ---
 
+The ATLAS Capstone 1 class lays the foundation for the culminating work in the TAM major. In this course, students will research precedents and domains for further project development, teach effective design processes and presentation skills, and engage in iterative making and critique of each other’s work.
+
+<br>
+
 Although you may look at this document and think [tl;dr](https://www.urbandictionary.com/define.php?term=tl%3Bdr), ***read the whole thing***! We’ve thought carefully about all of this, and have worked hard to give you both independence and support throughout your Capstone process. The rationales, requirements, milestones and consequences are clearly stated in this document.
 
 <br>
 
-#### Group Meetings
+# Objectives
+Students who successfully complete this course will:
+
+<br>
+
+#### Critical Thinking & Theory / History (CT):
++ Improve vocabulary and critical thinking in order to discuss their work
++ Develop a robust understanding of existing work in their field of interest
+
+#### Design/Creative (DC):
++ Refine their design process
+
+#### Technical (T):
++ Improve their iteration techniques to build better work
++ Cultivate their prototyping skills
++ Asses technical needs for current or further pursuit
+
+
+<br>
+
+# Class Meetings
 Each Capstone section meets as a group once per week, for 3h 50m. This time will be used for lectures, group exercises, critiques, discussions, one-on-one checkins and more. Often times, this class period will be used for individual work time, but <span class="underlined">**it is mandatory that you attend class for the full duration of this session**</span>. Every single week you should be prepared with something to work on during class.
 
-If you take advantage of the time and space well, you will be able to do a large portion of your Capstone work during the scheduled meeting times. Remember, Capstone is just one class. It is not meant to take over and ruin every other aspect of your life, but if you fail to prioritize consistent work time your outcome (and grade) will suffer. A major objective of this process is for you to learn how to budget and schedule your time and energies over a long term project and still have a life.
+<br>
 
-#### One-on-one Meetings
-<!-- Part of the time on Mondays will be reserved for one-one-one meetings with your Instructor. You are also encouraged to set up additional individual appointment as needed.  
+If you take advantage of class time well, you will be able to do a large portion of your Capstone work during the scheduled meeting times. Remember, Capstone is just one class. It is not meant to take over and ruin every other aspect of your life, but if you fail to prioritize consistent work time, your projects (and grade) will suffer. A major objective of this process is for you to learn how to budget and schedule your time and energy over a long term project.
 
-Book meeting time on my [Capstone-only Appointment Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUdLc0ZFRlNQWkYyfGRlZmF1bHR8M2ExNGRiNzQ3ZTk1NWE3NDQzMmFjZTZjNWQxYzRlMTA)
+<br>
 
-If you can't find a time that works, please email your Instructor to schedule something.
+There will be time reserved for one-on-one discussions with your Instructor during class. You are also highly  encouraged to set up additional individual appointment as needed.  
 
-<br> -->
+<br>
 
 # Communication
 
-We will have a slack channel for this course - this is an easy way for you to communicate with your classmates and with me (I am usually quicker to respond here than via email).
+We will have a slack channel for this course - this is an easy way for you to communicate with your classmates and with me (I am usually quicker to respond there than via email).
+
+<br>
 
 You must use your colorado.edu email account for this course - all class correspondence must go through this address.
 
-Assignment submissions, discussions, and grading will all use the Canvas course tools system.
+<br>
+
+Assignment submissions, discussions, and grading will use the **Canvas** course tools system.
 
 
 <br>
 
 # Attendance
-I take attendance extremely seriously - and because we only meet once each week, it is absolutely mandatory that you are present and prepared for each class. **Missing more than 2 classes is a cause for failure.**
-
-Critiques are a very important part of the design process, and I take them seriously. Even if your project is not fully completed, it is absolutely mandatory that you attend every critique and provide feedback on your classmates' projects. It will affect your grade negatively if you do not show up for critique (this includes both days if the critique runs longer than one class period). Work is expected to be completed prior to the critique, do not attempt to finish your project during critique, have everything you need uploaded, tested and ready. Student computers must be shut off and full participation is expected.
+Because Capstone only meets once each week, it is absolutely mandatory that you are present and prepared for each class. **Missing more than 2 classes is a cause for failure.**
 
 <br>
 
-
-# Assignments
-**The intention of Capstone is to both give you a lot of support and a lot of independence.** The emphasis of this course is in project development. Therefore you will notice that the first few weeks are like any class, with specific assignments. After the first few weeks, you are the driver for your project and your weekly progress will be dictated by a schedule that you determine in advance.
-
-Although your Capstone project is mostly self-directed, there are a few mandatory milestones. Here are the major milestones that you all have at the same time:
-
-|---|---|---|
-|  <span class="underlined">*Week 6*</span> | &nbsp;&nbsp;|Portfolio  |
-|  <span class="underlined">*Week 9*</span> | &nbsp;&nbsp;|Case Studies |
-|  <span class="underlined">*Week 13*</span> | &nbsp;&nbsp;|Prototype Presentation  |
-|  <span class="underlined">*Week 16*</span> | &nbsp;&nbsp;|Capstone 2 Proposal  |
-|  <span class="underlined">*Finals Week*</span> | &nbsp;&nbsp;|Final Presentation (to faculty and guests)  |
-
+Critiques are a very important part of the design process and a fundamental part of this course. Even if your project is not fully completed, **it is absolutely mandatory that you attend every critique and provide feedback to your peers**. It will affect your grade negatively if you do not show up for critique. Work is expected to be completed prior to the critique, do not attempt to finish your project during critique, have everything you need uploaded, tested and ready. Student computers and phones must be put away and full participation is expected.
 
 <br>
+
 
 # Evaluation
+The focus of Capstone is project development, and the course has been designed to give you both a lot of support and a lot of independence.
 
-<!-- |---|---|---|
-|Portfolio | &nbsp;&nbsp;&nbsp;| 150 pts |
-|Research  | &nbsp;&nbsp;&nbsp;| 300 pts |
-|Prototypes | &nbsp;&nbsp;&nbsp;| 300 pts |
-|Capstone 2 Proposal | &nbsp;&nbsp;&nbsp;| 150 pts |
-|Participation | &nbsp;&nbsp;&nbsp;| 100 pts |
+<!-- Once we get into the individual project portion of the course, since each of you will have a different project, with different internal timelines and needs, you will make up your own production schedule and assignments. I may make additional assignments or require additional readings for you as well. Essentially the assignment every week is Advance Your Project (AYP). That is, an assignment may say ‘prepare a presentation’, and you must do that, but don’t stop working on your actual project: AYP! -->
 
-Weekly assignments will contribute towards your participation grade.
+<br>
 
-You will not move onto Capstone 2 unless your proposal is approved by the faculty. You must earn at least a C in order to receive TAM credit for this course. -->
+Your Capstone project is largely self-directed, but there are a few mandatory milestones.
+
+|---|---|---|
+|  *Week 4*     | &nbsp;&nbsp;|Portfolio    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 15 pts |
+|  *Week 8*     | &nbsp;&nbsp;|Case Studies             | | 30 pts |
+|  *Week 8*     | &nbsp;&nbsp;|Case Study Presentation  | | &nbsp; 5 pts |
+|  *Week 10-12* | &nbsp;&nbsp;|Prototypes (3)           | | 30 pts |
+|  *Week 12*    | &nbsp;&nbsp;|Prototype Presentation   | | &nbsp; 5 pts |
+|  *Week 15*    | &nbsp;&nbsp;|Capstone 2 Proposal      | | 15 pts |
+
+You will not be permitted to move onto Capstone 2 unless your proposal is approved by the faculty. You must earn at least a C in order to receive TAM credit for this course.
+
 
 <br>
 
 # Documentation
 Ongoing documentation of your research, your design and production processes, testing, and methodology is a major part of your Capstone project. You are expected to post regularly as the semester progresses. Your weekly posts should include images, drawings, graphics, code snippets, videos, etc. in addition to a well written description of your work. It is intended to be a resource for *YOU* – a record and reflection of your process, your thinking, your insights. I promise you it will be useful for you to look back on!! I expect you to spend careful time cultivating this online journal, logging ideas and notes. Each post does not need to be especially formal, it should, however, be thoughtful.
+
+<br>
 
 At the end of the semester, you must comprehensively document your progress up to this point. You will create a proposal for your continued work in Capstone 2. You must prove that you are prepared for the next step of this process, and that you have done significant research and preparation to warrant you moving on.
 
